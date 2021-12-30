@@ -27,6 +27,6 @@ YouTube music, Spotify и MSMP Stream в одно месте!
 
 ![image](https://user-images.githubusercontent.com/56259377/147738303-e60cd548-e71c-460c-8508-7dc2e5ca1802.png)
 
-потддершка YouTube Плейлистов!
+поддержка YouTube Плейлистов!
 
 ![image](https://user-images.githubusercontent.com/56259377/147738391-a322a66e-2cbe-4756-8ea3-6b8814519c83.png)
