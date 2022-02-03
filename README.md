@@ -4,7 +4,7 @@ YouTube music, Spotify и MSMP Stream в одно месте!
 Свободный стриминговый медиа плеер 
 
 
-![image](https://user-images.githubusercontent.com/56259377/147737830-40d7f39b-d89e-4603-810e-49eee4a1a4d8.png)
+![image](https://user-images.githubusercontent.com/56259377/152379639-73e4af48-0e21-4837-82d6-448987789a7a.png)
 
 покажи своим друзьям что ты слушаешь музыку в MSMP Stream!
 
