@@ -1,5 +1,5 @@
 # MSMP-Stream
-YouTube music, Spotify и MSMP Stream в одно месте!
+YouTube music, SoundCloud и MSMP Stream в одно месте!
 
 Свободный стриминговый медиа плеер 
 
