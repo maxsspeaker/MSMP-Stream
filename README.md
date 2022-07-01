@@ -31,3 +31,7 @@ YouTube music, SoundCloud и MSMP Stream в одно месте!
 поддержка YouTube Плейлистов!
 
 ![image](https://user-images.githubusercontent.com/56259377/147738391-a322a66e-2cbe-4756-8ea3-6b8814519c83.png)
+
+
+# требуется помощь в созданий мода на Minecraft
+я может и странный но моё желание сделать чтобы MSMP Stream работал даже в Minecraft как мод...
