@@ -3,7 +3,7 @@ YouTube music, SoundCloud и MSMP Stream в одно месте!
 
 Свободный стриминговый медиа плеер 
 
-**в данный момент происходит глобальный рефакторинг кода с pygame на qt5,
+**Переход закончен, версия pyqt: https://github.com/maxsspeaker/qMSMP-Stream
 по этому pygame версия будет заброшена** 
 
 
